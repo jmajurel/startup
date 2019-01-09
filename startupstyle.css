@@ -1,0 +1,16 @@
+
+body {
+ background: url(http://www.telegraph.co.uk/content/dam/pets/2016/05/19/98139208_clever-dog-PETS-xlarge_trans_NvBQzQNjv4Bqek9vKm18v_rkIPH9w2GMNvrBHlngucm5MflHTV9w6vk.jpg);
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+}
+
+#content-purrfectmatch {
+  text-align: center;
+  padding-top: 25%;
+}
+
+hr {
+  border: 1px black grey;
+}
